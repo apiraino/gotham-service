@@ -12,15 +12,15 @@ mime = "0.3.5"
 serde = "1.0.29"
 serde_derive = "1.0.29"
 
-# diesel = "1.1.1"
-# amqp = "0.1.1"
-
-# DB ORM
 # gotham_middleware_diesel = "*"
 # diesel = { version = "1.0.0", features = ["sqlite"] }
+# diesel = "1.1.1"
 # diesel_migrations = { version = "1.0.0", features = ["sqlite"] } 
 # r2d2 = "0.8.2"
 # r2d2-diesel = "1.0.0" 
+
+# AMQP
+# amqp = "0.1.1"
 
 # [[test]]
 # name = "mytests"
